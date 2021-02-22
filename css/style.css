@@ -47,3 +47,8 @@ body {
 .go {
   background-color: green;
 }
+
+span {
+  color: red;
+  font-size: 12px;
+}
