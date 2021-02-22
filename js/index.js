@@ -3,6 +3,8 @@ $(document).ready(function() {
     // Notice #stop-button is the same as the CSS ID selector
     var stopButton = $("#stop-button");
     var stopLight = $("#stop-light");
+
+    [1,2,3,4,5].forEach((a) => console.log(a))
     
     // On pressing stop button, we will execute the function "turnOnStopLight"
     stopButton.click(turnOnStopLight);
