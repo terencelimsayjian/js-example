@@ -17,4 +17,5 @@ $(document).ready(function() {
 
     // Your turn: Try leverage on the existing code to get the traffic light fully operational!
     // comment1
+    // comment2
 })
